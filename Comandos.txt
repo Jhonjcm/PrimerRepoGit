@@ -1,0 +1,27 @@
+**Para especificar criterios de selección a la hora de gestionar archivos:  (archivo o carpeta)/*(terminación del archivo)**
+
+
+*git init: convierte esa carpeta en un repositorio
+
+*git status: muestra cómo va el repo
+
+*git add "baina a añadir": añade vainas a git (para que empiece a controlar su versionamiento)
+	
+	git add carpeta/*(terminación del archivo): para cargar 		archivos de cierta extención
+
+	git reset: elimina archivos y/o carpetas del stage
+
+*git commit -m "descripción": añade un commit (pasa los archivos añadidos (que se encuentra en estado: stage) a estado confirmado)
+
+*git diff: compara y muestra la situación actual, con respecto al último commit hecho
+
+*git checkout: revierte cambios hechos al último commit
+
+*git log: muestra el histórico de los commits hechos en el repo
+
+------------------------------------------------------------------
+tkn:  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
+------------------------------------------------------------------
+
+git branch -M main: Subir commit a la rama Main
+git checkout -b nombre rama: Crea una nueva rama
