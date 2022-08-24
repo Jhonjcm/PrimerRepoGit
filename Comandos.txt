@@ -5,7 +5,7 @@
 
 *git status: muestra cómo va el repo
 
-*git add "baina a añadir": añade vainas a git (para que empiece a controlar su versionamiento)
+*git add "vaina a añadir": añade vainas a git (para que empiece a controlar su versionamiento)
 	
 	git add carpeta/*(terminación del archivo): para cargar 		archivos de cierta extención
 

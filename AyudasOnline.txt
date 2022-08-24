@@ -1,0 +1,6 @@
+
+https://aquiensistemas.com/git-error-fatal-no-such-remote-origin-no-existe-un-origen-remoto/#:~:text=especificar%20una%20URL.-,%5BSOLUCION%5D%20Error%3A%20No%20such%20remote%20%27origin%27,ello%20debemos%20agregar%20la%20URL.
+
+No such remote ‘origin’ (No existe un ‘origen’ remoto)
+------------------------------------------------------------------
+
